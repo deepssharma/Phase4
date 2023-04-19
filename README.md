@@ -85,10 +85,14 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
 * We probably need to implememt weights in the training to take into account class imbalance using oversampling techniques which could improve performance.
 * Cropping images to remove unnecessary captured details such as R may bring some improvement to models.
 ## Repository Structure
- 
+ ------
     ├── images                              Images folder, containing all referenced image files
     ├── project4_image_classification.ipynb Main Jupyter notebook, contains analysis
     ├── Notebook.pdf                        PDF version of main Jupyter notebook
     ├── Presentation.pdf                    PDF Version of project presentation                                        
     └── README.md                           The top-level README  
-    
+## Contact Info:
+-----
+* Email: deeps.sharma@gmail.com
+* GitHub: [@deepssharma](https://github.com/deepssharma)
+* [LinkedIn](https://www.linkedin.com/in/deepali-sharma-a83a126/) 
