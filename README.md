@@ -12,7 +12,11 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 All chest X-ray imaging was performed as part of patients’ routine clinical care.
 ## Data Preparation
 * The data came split into train and test folders, with training set containing 89% of the total data and test folder containg the remaining 11% of the data
-* We split the training dataset into a validation set (10%) and kept 79% for training.
+* We split the training dataset into a validation set (9%) and kept 80% for training.
+* All images were down-scaled to a size of 128 x 128 pixels.
+* Pixels values (0-255) normalized to 0-1.
+* A comparison of some images without any pre-processing and after pre-processing is shown below:
+**Original Images**
 - Artificial Neural Network ANN 
 - Convolutional Neural Network 
 - Transfer Learning with VGG16
