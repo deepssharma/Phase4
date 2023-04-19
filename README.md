@@ -19,9 +19,9 @@ All chest X-ray imaging was performed as part of patients’ routine clinical ca
 * All images were down-scaled to a size of 128 x 128 pixels.
 * Pixels values (0-255) normalized to 0-1.
 * A comparison of some images without any pre-processing and after pre-processing is shown below:
+
 **Original Images:**
 ![Original Images](https://github.com/deepssharma/Phase4/blob/main/images/RawImages.png)
-
 **Processed Images:**
 ![Pre-processed Images](https://github.com/deepssharma/Phase4/blob/main/images/ScaledImages.png)
 
