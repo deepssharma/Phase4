@@ -86,9 +86,9 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
 * Cropping images to remove unnecessary captured details such as R may bring some improvement to models.
 ## Repository Structure
  
-    ├── images                         Images folder, containing all referenced image files
+    ├── images                              Images folder, containing all referenced image files
     ├── project4_image_classification.ipynb Main Jupyter notebook, contains analysis
-    ├── Notebook.pdf                   Pdf version of main Jupyter notebook
-    ├── Presentation.pdf               PDF Version of project presentation                                        
-    └── README.md                      The top-level README  
+    ├── Notebook.pdf                        PDF version of main Jupyter notebook
+    ├── Presentation.pdf                    PDF Version of project presentation                                        
+    └── README.md                           The top-level README  
     
