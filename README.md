@@ -87,7 +87,8 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
 ## Repository Structure
  
     ├── images                         Images folder, containing all referenced image files
-    ├── Notebook.ipynb                 Main Jupyter notebook, contains analysis
+    ├── project4_image_classification.ipynb Main Jupyter notebook, contains analysis
     ├── Notebook.pdf                   Pdf version of main Jupyter notebook
     ├── Presentation.pdf               PDF Version of project presentation                                        
     └── README.md                      The top-level README  
+    
