@@ -79,11 +79,12 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
 * Detecting children that have pneumonia as early as possible is very important for early intervention. Using neural networks for x-ray image clasiification will significantly reduce the waiting times for patients to hear back from radiologist and their treatment recommendations.
 
 * The Radiologists will have reduction in his work-load and there will be a mechanism to provide continued care for patients when the radiologist is out on sick leave or has to take vacations.
-* 
+
 ## Further Improvements
 ----
 * We probably need to implememt weights in the training to take into account class imbalance using oversampling techniques which could improve performance.
 * Cropping images to remove unnecessary captured details such as R may bring some improvement to models.
+* Also make it a multilabel-classification problem where we identify the pneumonias as virus or bacteria related. The treatment plan differs for the two categories.
 ## Repository Structure
  ------
     ├── images                              Images folder, containing all referenced image files
