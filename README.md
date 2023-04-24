@@ -1,7 +1,7 @@
 # Image Classification with Neural Networks
 ## Business Problem
 ---------------------------------
-* **Piedmont group, is looking for hiring a Data Scientist who can build a realistic model to efficiently screen the chest X-rays in pediatric patients that have pneumonia. 
+* **Piedmont Healthcare group, is looking to hiring a Data Scientist who can build a realistic model to efficiently screen the chest X-rays in pediatric patients that have pneumonia. 
 They have certain remote locations where Radiology Department has only one Radiologist and so they often have troubles when Radiologist is out for certain reasons**
 * Piedmont wants to avoid any lag in patient care and safety, minimize the diagnosis time and faster treatment timelines, and decrease the workload for Radiologist.
 * My job is to build a Neural Network that detects the presence of pneumonia in X-ray images. I need to predict the status of the lungs (Normal vs pneumonia) as accurately as possible
@@ -90,8 +90,9 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
     ├── images                              Images folder, containing all referenced image files
     ├── project4_image_classification.ipynb Main Jupyter notebook, contains analysis
     ├── Notebook.pdf                        PDF version of main Jupyter notebook
-    ├── Presentation.pdf                    PDF Version of project presentation                                        
-    └── README.md                           The top-level README  
+    ├── presentation_phase4.pdf             PDF Version of project presentation                                        
+    └── README.md                           The top-level README
+    
 ## Contact Info:
 -----
 * Email: deeps.sharma@gmail.com
