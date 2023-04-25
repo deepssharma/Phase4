@@ -88,6 +88,7 @@ https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnost
 ## Repository Structure
  ------
     ├── images                              Images folder, containing all referenced image files
+    ├── .gitignore                          List of files and folders not to be uploaded into repo
     ├── project4_image_classification.ipynb Main Jupyter notebook, contains analysis
     ├── Notebook.pdf                        PDF version of main Jupyter notebook
     ├── presentation_phase4.pdf             PDF Version of project presentation                                        
